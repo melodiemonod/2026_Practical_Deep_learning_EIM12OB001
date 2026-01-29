@@ -1,0 +1,24 @@
+name: 2026_Practical_Deep_learning_EIM12OB001
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pytorch
+  - h5py
+  - tensorflow
+  - keras
+  - imageio
+  - pip:
+      - kagglehub
+      - dlai-tools
+      - music21
+      - mido
+      - pydub
