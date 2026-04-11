@@ -1,0 +1,13 @@
+name: demo_classification
+channels: 
+  - pytorch
+  - default 
+dependencies:
+  - pytorch
+  - numpy
+  - pandas
+  - pip
+  - torchvision
+  - scikit-learn
+  - matplotlib
+  - tqdm
